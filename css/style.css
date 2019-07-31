@@ -487,6 +487,9 @@ body.offcanvas {
   color: white;
   font-size: 11px;
 }
+.project-detail p{
+  line-height: 15px;
+}
 
 .panel {
   -webkit-box-shadow: none !important;
