@@ -292,10 +292,10 @@ figure {
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
-        text-align: right;
-        vertical-align: middle;
+        text-align: left;
         min-height: 700px;
-        padding: 2.5em;
+        padding-top: 3.5em;
+        padding-left: 2.5em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
