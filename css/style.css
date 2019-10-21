@@ -22,7 +22,7 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #2c98f0;
+  color: #9e083f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -960,7 +960,7 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #213ca2;
+    background: #6c87f3;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
