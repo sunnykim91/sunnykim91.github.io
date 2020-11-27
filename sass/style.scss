@@ -966,6 +966,7 @@ body {
 }
 
 //SKILLS--------------------
+<<<<<<< HEAD
 
 .progress-wrap {
     h3 {
@@ -973,6 +974,15 @@ body {
         font-family: $font-primary;
         margin-bottom: 20px;
     }
+=======
+.progress-wrap{
+	h3{
+		font-size: 16px;
+		font-family: $font-primary;
+		margin-bottom: 10px;
+		margin-top:20px;
+	}
+>>>>>>> 3c9706b7a93f7e5bbd8d966789d39874133859ea
 }
 //PROGRESS BAR
 .progress {
